@@ -1,0 +1,74 @@
+* { 
+    background-color: #021859;
+    margin: 0;
+    
+}
+.banner {
+    background-image: url(../IMG/VJi.gif);
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner h1,
+.banner p {
+    color: white;
+    
+    
+}
+
+
+
+.descricao, 
+.habilidades {
+    background-color: #021859;
+    width: 40% ;
+    display: inline-block;
+    
+
+}
+
+.habilidades 
+ {
+    color: white;
+}
+
+.sobre {
+    background-color:#021859;
+    padding-left: 5%;
+    
+}
+
+.sobre h2,
+.sobre p {
+    color: white;
+}
+
+.redes { 
+    color: white;
+    margin-top: 5%;
+    margin-left: 31%;
+    padding-left: 10%;
+   
+    
+
+}
+.links{
+    background-color: #021859;
+    margin-left: 30%;
+    padding-left: 10%;
+    width: "100px";
+    
+}
+
+button {
+    background-color: #021859;
+    padding: 10px;
+    color: white;
+    border-radius: 30px;
+  }
+
